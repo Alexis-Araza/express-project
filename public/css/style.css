@@ -6,10 +6,14 @@ body {
 
 h1 {
 /*	margin: 5px;*/
-	background: lightgrey;
+	background: #FF69B4;
 }
 
 .nav {
 /*	margin: 5px;*/
 	background: lightblue;
+}
+
+a {
+	color: black;
 }
